@@ -1,2 +1,2 @@
 # ATM-Machine
-ATM machine written in Java, with interface.
+ATM machine Interface written in Java to deposit/withdraw cash.
